@@ -1,0 +1,29 @@
+---
+title: "Cesar Dao"
+image: "site-image.png"
+links:
+  - label: GitHub
+    url: https://github.com/cedaco
+output:
+  postcards::solana
+---
+---
+ 
+## Bio
+
+Cesar Dao is a student at the University of Texas currently residing in Austin, TX. He is a 
+fourth-year Statistics and Data Science student on the Pre-Med track, who plans on pursuing an 
+MD after completing his undergraduate studies. Cesar enjoys learning about ways to use 
+machine-learning modules and AI to help evaluate medical conditions in order to eliminate
+any significant human errors.
+
+Fun Facts:
+
+- Die-hard sports fan (FC Barcelona and Boston Teams)
+- Very experienced skier
+- Loves Spanish Food and Culture
+
+```{r}
+Sys.time()
+```
+
